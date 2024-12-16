@@ -1,0 +1,496 @@
+﻿/* __________________________Authentication - admin - css____________________________________ */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.main_color {
+    color: #007DFA;
+}
+
+.Forgot_Password, .form-check-input, .login a {
+    color: #007DFA;
+    cursor: pointer;
+}
+
+.background {
+    background: rgb(5,10,36);
+    
+    background: linear-gradient(0deg, rgba(5,10,36,1) 0%, rgba(25,38,106,1) 42%, rgba(28,58,181,1) 100%);
+}
+.status-indicator {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: orange;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+.SignBtn {
+    background-color: #007DFA;
+}
+
+.form-control:focus {
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 0.25rem #E0EFFE;
+}
+/* .btn:hover {
+    background-color:#007DFA ;
+} */
+.btn-check:checked + .btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check) + .btn:active {
+    background-color: #007DFA;
+    border-color: #007DFA;
+}
+
+label {
+    /* display: inline-block; */
+}
+
+.login {
+    padding: 0px 100px;
+}
+
+*, ::after, ::before {
+    /* box-sizing: border-box; */
+}
+
+@media only screen and (max-width: 910px) {
+    .login {
+        padding: 0px 40px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .login {
+        padding: 0px 0px;
+    }
+}
+/* __________________________side nav bar Css___________________ */
+.side-nav-menu {
+    background-color: #040a25;
+}
+
+.side {
+    border-radius: 30px 30px 10px 5px;
+}
+/**
+.gradient-text {
+    color: linear-gradient(90deg, #0069D5 0%, #374E74 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-size: 170%;
+}
+*/
+.side-nav-menu h1 {
+    background: rgb(0,105,213);
+    background: linear-gradient(0deg, rgba(0,105,213,1) 0%, rgba(55,78,116,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.links ul li, .nav-footer a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #BEBEBF;
+}
+/* ___________________________home Css__________________________ */
+.adminDetails button {
+    background-color: #007DFA;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background: rgba(190, 190, 191, 0.50);
+}
+
+.SmallLine {
+    width: 0px;
+    height: 38.5px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #979797;
+    opacity: 0.2456;
+}
+
+.traveler img {
+    width: 35%;
+}
+
+.icons i {
+    font-size: 18px;
+    color: #292D32;
+    cursor: pointer;
+}
+
+.addBtn {
+    background-color: #007DFA;
+    color: white;
+}
+
+.Active {
+    box-shadow: 0px -8px 4px rgba(0, 125, 250,0.7);
+    color: #007DFA;
+}
+
+.items {
+    flex-wrap: wrap;
+    row-gap: 30px;
+    
+}
+
+th, td {
+    /* border: 1px solid #ddd; */
+    padding: 15px;
+    text-align: center;
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    color: #7C7C7C;
+}
+
+.verifiedBtn {
+    background-color: #00D25B;
+    color: white;
+}
+
+.btn:hover {
+    /* background-color: ; */
+    border: 1px solid black;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tableShadow {
+    box-shadow: 0px 8px 8px -4px rgba(0, 0, 0, 0.1);
+}
+
+.row > * {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.item {
+    text-align: center;
+    margin: 0 20px;
+}
+.number {
+    font-size: 48px;
+    font-weight: bold;
+    color: #000;
+}
+
+.label {
+    font-size: 18px;
+    color: #888;
+}
+
+.separator {
+    width: 2px;
+    height: 60px;
+    background-color: #DFDFDF;
+}
+
+.separator2 {
+    width: 2px;
+    height: 600px;
+    background-color: #DFDFDF;
+}
+
+.separator3 {
+    width: 2px;
+    height: 700px;
+    background-color: #DFDFDF;
+}
+
+.profile-container {
+    padding: 20px;
+}
+
+.registration-date {
+    font-size: 14px;
+    color: #aaa;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.formTitle {
+    font-size: 14px;
+    color: #aaa;
+}
+
+.profile-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.label {
+    font-size: 18px;
+    color: #B5B5B5;
+    width: 140px;
+}
+
+.value {
+    font-size: 18px;
+    color: #000;
+    flex-grow: 1;
+    padding: 10px;
+}
+
+.photo, .national-id-photo {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.id-details {
+    margin-left: 10px;
+}
+
+.verified-button {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.star {
+    color: #FF8201;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.add-user-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.icon {
+    position: relative;
+    margin-left: 20px;
+}
+
+    .icon img {
+        width: 24px;
+        height: 24px;
+    }
+
+.notification-dot {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.user-profile {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F3F3F3;
+    border-radius: 30px;
+    padding: 3px 15px;
+    box-shadow: 0 0 0 0.05rem #F3F3F3;
+}
+
+.user-photo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.user-info {
+    text-align: left;
+}
+
+.user-name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.user-role {
+    font-size: 14px;
+    color: #888;
+}
+
+.dropdown-arrow {
+    margin-left: 10px;
+    font-size: 16px;
+    color: #888;
+}
+
+.request {
+    padding-left: 89px;
+    padding-bottom:99px;
+   
+}
+
+.cs::before {
+    content: "";
+    width: 20px;
+    height: 39px;
+    border-left: 3px solid #9797974d;
+    position: absolute;
+    top: 2%;
+    right: 38.9%;
+}
+.hr {
+    color: #9797974d;
+}
+.table2{
+    border-radius: 25px 20px ;
+}
+.TD {
+    /* تعيين العرض للنص */
+    max-width: 200px; /* يمكنك تعديل هذا الرقم حسب احتياجاتك */
+    overflow: hidden; /* لتجنب تجاوز الحجم المحدد */
+    text-overflow: ellipsis; /* لعرض نقط الانقطاع في حالة التجاوز */
+    white-space: nowrap; /* لمنع النص من الفصل إلى أسطر متعددة */
+}
+.tableee {
+    background: #F2F4FF;
+}
+a{
+ text-decoration:none;
+ 
+}
+.textt{
+    color:darkred;
+}
+.text-danger {
+    color: red;
+}
+.input-group-text {
+    position: absolute;
+    right: 0;
+    z-index: 1000; /* للتأكد من ظهور الأيقونة فوق الحقل */
+    cursor: pointer; /* لجعل المؤشر عند التحريك فوق الأيقونة يبدو كمؤشر للنقر */
+}
+
+.active {
+    background-color: rgb(0,105,213);
+    border-radius:50px;
+    height:60%;
+    
+}
+.FristBox{
+    border-radius:10%;
+    min-width:200px
+
+}
+
+.profile{
+    padding-left:200px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+.comments-container {
+    width: 60%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.comment-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.comment-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+}
+
+    .user-info h3 {
+        margin: 0;
+        font-size: 18px;
+        color: #333;
+    }
+
+    .user-info p {
+        margin: 0;
+        color: #777;
+    }
+
+.comment-text {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.comment-actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+    .comment-actions a {
+        text-decoration: none;
+        margin-left: 10px;
+        color: #007bff;
+        font-weight: bold;
+    }
+
+        .comment-actions a.delete {
+            color: #dc3545;
+        }

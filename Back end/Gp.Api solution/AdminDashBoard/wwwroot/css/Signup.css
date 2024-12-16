@@ -1,0 +1,94 @@
+﻿namespace AdminDashBoard.wwwroot.css {
+    *
+
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main_color {
+    color: #007DFA;
+}
+
+.Forgot_Password, .form-check-input, .login a {
+    color: #007DFA;
+    cursor: pointer;
+}
+
+.background {
+    background: rgb(5,10,36);
+    background: linear-gradient(0deg, rgba(5,10,36,1) 0%, rgba(25,38,106,1) 42%, rgba(28,58,181,1) 100%);
+}
+
+.status-indicator {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: orange;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.SignBtn {
+    background-color: #007DFA;
+}
+
+.form-control:focus {
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 0.25rem #E0EFFE;
+}
+/* .btn:hover {
+    background-color:#007DFA ;
+} */
+.btn-check:checked + .btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check) + .btn:active {
+    background-color: #007DFA;
+    border-color: #007DFA;
+}
+
+label {
+    /* display: inline-block; */
+}
+
+.login {
+    padding: 0px 100px;
+}
+
+*, ::after, ::before {
+    /* box-sizing: border-box; */
+}
+
+@media only screen and (max-width: 910px) {
+    .login {
+        padding: 0px 40px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .login {
+        padding: 0px 0px;
+    }
+}
+/* __________________________side nav bar Css___________________ */
+.side-nav-menu {
+    background-color: #040a25;
+}
+
+.side {
+    border-radius: 30px 30px 10px 5px;
+}
+/**
+.gradient-text {
+    color: linear-gradient(90deg, #0069D5 0%, #374E74 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-size: 170%;
+}
+*/
+.side-nav-menu h1 {
+    background: rgb(0,105,213);
+    background: linear-gradient(0deg, rgba(0,105,213,1) 0%, rgba(55,78,116,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+}
