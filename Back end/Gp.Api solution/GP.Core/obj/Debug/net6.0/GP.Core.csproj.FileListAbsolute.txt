@@ -1,0 +1,117 @@
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.runtimeconfig.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.genruntimeconfig.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.runtimeconfig.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.genruntimeconfig.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.runtimeconfig.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.genruntimeconfig.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.sourcelink.json
+D:\Graduation Project\Final Project\GP-Project\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+D:\Graduation Project\Final Project\GP-Project\GP.Core\bin\Debug\net6.0\GP.Core.runtimeconfig.json
+D:\Graduation Project\Final Project\GP-Project\GP.Core\bin\Debug\net6.0\GP.Core.dll
+D:\Graduation Project\Final Project\GP-Project\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\GP.Core.dll
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\GP.Core.genruntimeconfig.cache
+D:\Graduation Project\Final Project\GP-Project\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.runtimeconfig.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.sourcelink.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.genruntimeconfig.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.runtimeconfig.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.sourcelink.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.genruntimeconfig.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.runtimeconfig.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.sourcelink.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.genruntimeconfig.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.deps.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.runtimeconfig.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\bin\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.AssemblyReference.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfoInputs.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.AssemblyInfo.cs
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.csproj.CoreCompileInputs.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.sourcelink.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\refint\GP.Core.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\GP.Core.genruntimeconfig.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\GP.Core\obj\Debug\net6.0\ref\GP.Core.dll
