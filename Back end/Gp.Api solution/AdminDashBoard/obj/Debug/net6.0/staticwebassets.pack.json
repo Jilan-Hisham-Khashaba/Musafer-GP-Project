@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdminDashBoard.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminDashBoard.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\assest\\images\\Ellipse 2.png",
+      "PackagePath": "staticwebassets\\assest\\images\\Ellipse 2.png"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\css\\Signup.css",
+      "PackagePath": "staticwebassets\\css\\Signup.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\06927d26-a1d6-4031-89e0-fc6116db5ce4Rahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\06927d26-a1d6-4031-89e0-fc6116db5ce4Rahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\06defa1a-1cad-4ddf-b6ec-3255ad18054eRahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\06defa1a-1cad-4ddf-b6ec-3255ad18054eRahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\08994347-b6b5-45b4-9a9e-0a4d4e0871caRahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\08994347-b6b5-45b4-9a9e-0a4d4e0871caRahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\0d1d9c03-9dc0-4915-8cff-e43614a75f86Rahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\0d1d9c03-9dc0-4915-8cff-e43614a75f86Rahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\0da93381-40db-41b3-9836-24435d47bab0Rahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\0da93381-40db-41b3-9836-24435d47bab0Rahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\1170ab65-6619-45d0-b5b5-25ea2185c155Rahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\1170ab65-6619-45d0-b5b5-25ea2185c155Rahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\22424a16-edc9-486e-b139-ed591bc04ca9Rahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\22424a16-edc9-486e-b139-ed591bc04ca9Rahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\30f0f8f7-f94d-4a90-811f-7de97f4372d3Rahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\30f0f8f7-f94d-4a90-811f-7de97f4372d3Rahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\31d658ae-b188-4319-9540-b1899ae00026Rahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\31d658ae-b188-4319-9540-b1899ae00026Rahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\355abcdf-5d32-42dd-852f-279096417201Rahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\355abcdf-5d32-42dd-852f-279096417201Rahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\36161045-fe8b-4bfb-abf3-f5c3991ec91fRahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\36161045-fe8b-4bfb-abf3-f5c3991ec91fRahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\4f9e39fe-74e7-4d83-8efc-ecc5a3ddd7eaRahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\4f9e39fe-74e7-4d83-8efc-ecc5a3ddd7eaRahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\58a63c39-e046-4f9b-9561-75ce02b15476Rahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\58a63c39-e046-4f9b-9561-75ce02b15476Rahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\789c2b86-7cd0-4f7c-bbe5-90122ec852b1Rahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\789c2b86-7cd0-4f7c-bbe5-90122ec852b1Rahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\8fbd9930-fba0-4736-9131-a24d99d06f85Rahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\8fbd9930-fba0-4736-9131-a24d99d06f85Rahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\9c4cae34-6a5a-45ec-b084-ab5c5e1f9a8dRahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\9c4cae34-6a5a-45ec-b084-ab5c5e1f9a8dRahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\a19c430c-08ce-4dad-ab12-c6fc02cecf16Rahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\a19c430c-08ce-4dad-ab12-c6fc02cecf16Rahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\c37d7a78-54f9-4db0-9b46-2b78c31b7b1eRahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\c37d7a78-54f9-4db0-9b46-2b78c31b7b1eRahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\d117f619-506e-4339-8baf-17d0ca87872eRahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\d117f619-506e-4339-8baf-17d0ca87872eRahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\de868da8-c00d-4717-beda-1d64ebb414cdRahma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\de868da8-c00d-4717-beda-1d64ebb414cdRahma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\images\\PictureAdmin\\e3a19967-49a6-4c48-8dda-2c9f2162ae44Rahmmmma.jpg",
+      "PackagePath": "staticwebassets\\images\\PictureAdmin\\e3a19967-49a6-4c48-8dda-2c9f2162ae44Rahmmmma.jpg"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\js\\code.jquery.com_jquery-3.7.0.min.js",
+      "PackagePath": "staticwebassets\\js\\code.jquery.com_jquery-3.7.0.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Lasttt Yearrr\\GP\\finalGPProject\\ProjectGP2\\Gp.Api solution\\AdminDashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AdminDashBoard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AdminDashBoard.props",
+      "PackagePath": "build\\AdminDashBoard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminDashBoard.props",
+      "PackagePath": "buildMultiTargeting\\AdminDashBoard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AdminDashBoard.props",
+      "PackagePath": "buildTransitive\\AdminDashBoard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

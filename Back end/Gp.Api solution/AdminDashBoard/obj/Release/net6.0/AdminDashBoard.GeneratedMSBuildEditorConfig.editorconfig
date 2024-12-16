@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AdminDashBoard
+build_property.RootNamespace = AdminDashBoard
+build_property.ProjectDir = D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\AdminDashBoard\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\AdminDashBoard
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Admin/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/AllAdmin/AddAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsQWRtaW5cQWRkQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/AllAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Category/AddCat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Home/DecodeToken.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWNvZGVUb2tlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Home/DecodeTokenForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWNvZGVUb2tlbkZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Location/AddCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cQWRkQ2l0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Location/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Location/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Orders/details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXGRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Request/details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxkZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Request/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Setting/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Setting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Shared/_LayoutUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/User/Transaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxUcmFuc2FjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/User/Verify.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWZXJpZnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lasttt Yearrr/GP/finalGPProject/ProjectGP2/Gp.Api solution/AdminDashBoard/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s6ek3oopkk
