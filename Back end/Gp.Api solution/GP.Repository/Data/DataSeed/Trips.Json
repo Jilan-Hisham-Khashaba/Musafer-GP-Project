@@ -1,0 +1,23 @@
+//[
+//  {
+//    "FromCityID": 2,
+//    "ToCityId": 1,
+//    "availableKg": 5,
+//    "arrivalTime": "2023-12-30T15:45:00"
+
+//  },
+//  {
+//    "FromCityID": 1,
+//    "ToCityId": 2,
+//    "availableKg": 3.5,
+//    "arrivalTime": "2023-12-30T10:15:00"
+ 
+//  },
+//  {
+//    "FromCityID": 2,
+//    "ToCityId": 1,
+//    "availableKg": 10,
+//    "arrivalTime": "2024-01-03T12:45:00"
+    
+//  }
+//]

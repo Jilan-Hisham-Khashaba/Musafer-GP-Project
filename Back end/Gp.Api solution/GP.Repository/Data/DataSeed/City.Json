@@ -1,0 +1,10 @@
+[{
+    
+    "NameOfCity": "Cairo",
+    "CountryId":1
+},
+{
+    
+    "NameOfCity": "Riyadh",
+    "CountryId" : 2
+}]
