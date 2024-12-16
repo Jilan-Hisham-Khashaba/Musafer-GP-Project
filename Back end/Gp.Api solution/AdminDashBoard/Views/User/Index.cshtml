@@ -1,0 +1,100 @@
+﻿@model IEnumerable<UserView>
+@{
+    ViewData["Title"] = "Index";
+ 
+}
+@{
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+
+@if (Model.Count() > 0)
+{
+     <div class="container d-flex justify-content-between  request    flex-column " style="width: 90%;">
+    <div  class="d-flex justify-content-between align-items-center   py-3">   
+   <h5 class="mx-4 fw-bold ">ALL User</h5>
+      <i class="fa-solid fa-arrow-up-wide-short mx-4"></i> 
+    </div>
+        <div  class="d-flex  justify-content-evenly align-items-center  ">
+            <table class="table   w-100">
+        <thead>
+            <tr>
+                        <th>
+                            <div class="containerCheakBox">
+                                <input class="form-check-input p-2" type="checkbox" id="check1" name="option1" value="something" checked>
+
+                            </div>
+                        </th>
+                <th>
+                    @Html.DisplayNameFor(r => r.UserName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(r => r.Email)
+                </th>
+                <th>
+                   Date
+                </th>
+                <th>Transaction</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                            <td>
+                                <input class="form-check-input p-2" type="checkbox" id="check1" name="option1" value="something" checked>
+                            </td>
+                    <td>
+                        @user.UserName
+                    </td>
+                    <td>
+                        @user.Email
+                    </td>
+                    <td>
+                        @user.LastLogin
+                    </td>
+                    <td>
+                        <a asp-action="Transaction" asp-route-id="@user.Id" class=" ">
+                            @user.ShipmentCount <span>Shipment ,</span>
+                            @user.TripCount <span>Trip </span>
+                        </a>
+                        
+                    </td>
+                    <td>
+                     @if(user.IsEnableFactor==false)
+                     {
+
+                                    <a class="btn bg-danger   py-1 px-4 mx-3 rounded-pill" asp-action="Verify" asp-route-id="@user.Id">Unverified</a>
+                     }
+                                @if (user.IsEnableFactor == true)
+                                {
+                                <a class="btn verifiedBtn   py-1 px-4 mx-3 rounded-pill" asp-action="Verify" asp-route-id="@user.Id">verified</a>
+                     }
+                    </td>
+                    
+                    <td>
+                                <a class=" " asp-action="Edit" asp-route-id="@user.Id"><i class="fa-solid fa-eye p-1 mx-1 "></i></a>
+                                <a class=" " asp-action="Edit" asp-route-id="@user.Id"><i class="fa-solid fa-trash  p-1  text-danger"></i></a>
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+        </div>
+    </div>
+}
+else
+{
+    <div class="mt-3 p-3 alter-warning">
+        <h2>There is no record</h2>
+    </div>
+}
+
+
+
+

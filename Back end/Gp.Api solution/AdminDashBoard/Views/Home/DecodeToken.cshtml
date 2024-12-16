@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "DecodeToken";
+}
+
+@{
+    ViewData["Title"] = "Decoded Token";
+}
+
+<h2>Decoded Token</h2>
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Claim Type</th>
+                <th>Claim Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.Type</td>
+                    <td>@claim.Value</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No claims found in the token.</p>
+}

@@ -1,0 +1,263 @@
+﻿@using System.Security.Claims;
+@inject SignInManager<AppUser> signInManger
+@inject UserManager<AppUser> userManager
+
+@inject IConfiguration configuration
+
+
+@{
+    // الحصول على اسم المستخدم
+
+
+    var emailClaim = User.FindFirst(ClaimTypes.Email);
+
+
+
+    var email = emailClaim.Value;
+
+    var user = await userManager.FindByEmailAsync(email);
+    string userName = user.DisplayName;
+    var userid = user.Id;
+    user.PhotoPicture = new AdminDashBoard.Helpers.UserImageResolver(configuration).Resolve(user, null, null, null);
+
+    // التحقق مما إذا كان المستخدم معتمدًا
+    bool isAuthenticated = User.Identity.IsAuthenticated;
+
+    // الحصول على قائمة الأدوار إذا كنت تستخدم دور المستخدم
+    var roles = ((ClaimsIdentity)User.Identity).Claims
+        .Where(c => c.Type == ClaimTypes.Role)
+        .Select(c => c.Value).ToList();
+}
+@using AdminDashBoard.Helpers
+@using GP.core.Entities.identity
+@using Microsoft.AspNetCore.Identity;
+@using System.Configuration
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AdminDashBoard</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/all.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="~/AdminDashBoard.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <!-- _________________________________side-nav-menu _______________________________ -->
+    <div class="side-nav-menu min-vh-100 position-fixed d-flex top-0 side">
+        <div class="nav-tab  d-flex flex-column justify-content-between min-vh-100 p-4">
+            <h1 class=" p-4 "> Musafer </h1>
+
+            <div class="links">
+                <ul class="list-unstyled">
+                    <li class="p-3 active ">
+                        <a style="color:gainsboro" asp-controller="Home" asp-action="Index">
+                        <i class="fa-solid fa-users px-1 fa-1x"></i> Dashboard
+                        </a>
+                    </li>
+                    <li class="p-3 active ">
+                        <a style="color:gainsboro" asp-controller="User" asp-action="Index">
+                            <i class="fa-solid fa-users px-1 fa-1x"></i>  Users
+                            </a>
+                      </li>
+                        
+                    <li class="p-3  active">
+                        <a style="color:gainsboro" asp-controller="Request" asp-action="Index">
+                        <i class="fa-solid fa-users px-1 fa-1x"></i> Requests
+                        </a>
+                        </li>
+                    <li class="p-3  active">
+                        <a style="color:gainsboro" asp-controller="Orders" asp-action="Index">
+                        <i class="fa-solid fa-users px-1 fa-1x"></i> Orders
+                        </a>
+                        </li>
+                    <li class="p-3  active">
+                        <a style="color:gainsboro" asp-controller="Location" asp-action="Index">
+                            <i class="fa-regular fa-clipboard px-2 fa-1x"></i>Countries
+                        </a>
+                    </li>
+                    <li class="p-3 active ">
+                        <a style="color:gainsboro" asp-controller="Category" asp-action="Index">
+                        <i class="fa-regular fa-clipboard px-2 fa-1x"></i>Category
+                        </a>
+                        </li>
+                    <li class="p-3 active">
+                           <a style="color:gainsboro" asp-controller="AllAdmin" asp-action="Index">
+                        <i class="fa-regular fa-clipboard px-2 fa-1x"></i>Admin
+                        </a>
+                        </li>
+
+                    <li class="p-3 active">
+                        <a style="color:gainsboro" asp-controller="Comment" asp-action="Index">
+                            <i class="fa-regular fa-clipboard px-2 fa-1x"></i>Comments
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="nav-footer ">
+                <a asp-controller="Setting" asp-action="Index" class=" d-block p-3  "><i class="fa-solid fa-gear px-2 fa-1x"></i>Settings</a>
+                <a asp-controller="Admin" asp-action="LogOut" class=" text-danger p-3 "><i class="fa-solid fa-arrow-right-from-bracket px-2 fa-1x "></i> Logout</a>
+
+            </div>
+        </div>
+
+    </div>
+    
+
+    <!-- _______________________________
+    Search_______________________ -->
+  @*   <div class="container-fluid d-flex justify-content-center">
+        <div class=" d-flex justify-content-between align-items-center  px-5 py-2">
+            <div class="mx-5">
+                @* <input type="text" placeholder="Search ......"
+                       class="form-control w-100 bg-transparent py-2 px-5 rounded-pill  ">
+ *@
+            </div>  
+
+
+            <div class="header ms-auto mx-5">
+              @*   <button class="btn  addBtn py-1 px-4 mx-3 rounded-pill">Add New Admin +</button> *@
+                <div class="icons">
+                    <div class="icon">
+                        <span><i class="fa-solid fa-message px-4"></i></span>
+                    </div>
+                    <div class="icon">
+                        <span><i class="fa-solid fa-bell  px-4"></i></span>
+                    </div>
+                </div>
+                <div class="user-profile">
+                    <img src="@user.PhotoPicture" alt="User Photo" class="user-photo w-25">
+                    <div class="user-info">
+                        <div class="user-name">@user.UserName</div>
+                        <div class="user-role">Admin</div>
+                    </div>
+                    <div class="dropdown-arrow px-2">▼</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <hr class="hr">
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+   @*  <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - AdminDashBoard - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer> *@
+  
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <script>
+        // الحصول على الكوكيز بشكل كامل
+        var cookies = document.cookie;
+
+        // تقسيم الكوكيز إلى أجزاء منفصلة
+        var cookieArray = cookies.split(';');
+
+        // تحديد اسم الكوكيز الذي تبحث عنه (في هذه الحالة، "token")
+        var tokenCookieName = "token=";
+
+        // تحقق من وجود التوكن في الكوكيز
+        for (var i = 0; i < cookieArray.length; i++) {
+            var cookie = cookieArray[i].trim();
+            if (cookie.indexOf(tokenCookieName) === 0) {
+                // إذا وجد التوكن، استخراج قيمته
+                var token = cookie.substring(tokenCookieName.length, cookie.length);
+
+                // هنا يمكنك استخدام التوكن كما تريد، مثلاً ضمن تحديث طلب AJAX
+                $.ajaxSetup({
+                    beforeSend: function (xhr) {
+                        xhr.setRequestHeader('Authorization', 'Bearer ' + token);
+                    }
+                });
+
+                // مثال على طلب AJAX للحصول على بيانات
+                $.ajax({
+                    url: '/Home/index',  // استبدل بعنوان الطلب الخاص بك
+                    method: 'GET',
+                    success: function (response) {
+                        console.log('Success:', response);
+                        // Handle successful response
+                    },
+                    error: function (error) {
+                        console.error('Error:', error);
+                        // Handle error response
+                    }
+                });
+
+                // انتهى البحث عن التوكن بنجاح
+                break;
+            }
+        }
+        function submitAddAdminForm() {
+            var formData = new FormData(document.getElementById('addAdminForm'));
+
+            $.ajax({
+                url: '@Url.Action("AddAdmin")',
+                type: 'POST',
+                data: formData,
+                processData: false,
+                contentType: false,
+                success: function (response) {
+                    if (response.success) {
+                        $('#addAdminModal').modal('hide');
+                        location.reload(); // Reload the page to reflect the changes
+                    } else {
+                        // Display errors
+                        $('#DisplayNameError').text(response.errors.DisplayName);
+                        $('#EmailError').text(response.errors.Email);
+                        $('#PhoneNumberError').text(response.errors.PhoneNumber);
+                        $('#PasswordError').text(response.errors.Password);
+                        $('#ConfirmPasswordError').text(response.errors.ConfirmPassword);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    alert('An error occurred while adding the admin.');
+                }
+            });
+        }
+
+
+
+        // إذا لم يتم العثور على التوكن في الكوكيز
+        if (!token) {
+            console.error('Token not found in cookies');
+        }
+        document.addEventListener('DOMContentLoaded', function () {
+            var links = document.querySelectorAll('.links li a');
+
+            links.forEach(function (link) {
+                // إزالة النشاط من جميع الروابط
+                link.parentElement.classList.remove('active');
+
+                // التحقق مما إذا كان عنوان الرابط يتطابق مع عنوان الصفحة الحالي
+                if (window.location.pathname === link.getAttribute('href')) {
+                    // إضافة النشاط إلى الرابط الحالي
+                    link.parentElement.classList.add('active');
+                }
+            });
+        });
+
+
+
+
+    </script>
+
+   
+</body>
+</html>

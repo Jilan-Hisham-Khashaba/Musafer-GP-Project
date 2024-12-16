@@ -1,0 +1,44 @@
+﻿@model CategoryModel
+@{
+    ViewData["Title"] = "Edit";
+    
+}
+
+
+<div class="container d-flex justify-content-between  request    flex-column " style="width: 90%;">
+    <div class="d-flex justify-content-between align-items-center   ">
+    </div>
+                <h1 class="py-5">Edit</h1>
+                <form method="post" asp-action="Edit">
+                    <div class="py-3">
+                        <label for="Name" class="text-secondary py-2 fw-medium" asp-for="Name">Name</label>
+                        <input type="text" id="Name" placeholder="Enter Your Name" asp-for="Name" class="form-control p-3">
+
+                        <span asp-validation-for="Name"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between align-items-center py-2 ">
+                    </div>
+
+                    <button class="btn SignBtn my-4 btn-outline-dark" type="submit">Edit</button>
+                </form>
+                @if (TempData["SuccessMessage"] != null)
+                {
+                    <div class="alert alert-success">
+                        @TempData["SuccessMessage"]
+                    </div>
+                }
+
+                @if (TempData["ErrorMessage"] != null)
+                {
+                    <div class="alert alert-danger">
+                        @TempData["ErrorMessage"]
+                    </div>
+                }
+            </div>
+
+        </div>
+    </div>
+</div>
+
+

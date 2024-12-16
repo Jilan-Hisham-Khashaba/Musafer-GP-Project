@@ -1,0 +1,72 @@
+﻿@model RegisterDto
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musafer</title>
+    <link href="~/css/all.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+</head>
+<body>
+    <!-- _______________________signup page______________________-->
+    <div class="container-fluid">
+        <div class="row" id="logInPage">
+            <div class="col-md-6">
+                <div class="background min-vh-100 "></div>
+            </div>
+            <div class="col-md-6">
+                <div class="login d-flex justify-content-center flex-column">
+                <h1 class="py-5">Sign Up</h1>
+                <form method="post" asp-action="SignUp">
+                    <div class="py-2">
+                        <label for="" class="text-secondary py-1 fw-medium" asp-for="DisplayName">Name</label>
+                        <input type="text" placeholder="Enter Your Name" asp-for="DisplayName" class="form-control p-3 ">
+                        <span asp-validation-for="DisplayName"></span>
+                    </div>
+                    <div class="py-2">
+                        <label for="" class="text-secondary py-1 fw-medium" asp-for="Email">Email</label>
+                        <input type="email" placeholder="Enter Your Email" asp-for="Email" class="form-control p-3 ">
+                        <span asp-validation-for="Email"></span>
+                    </div>
+                    <div class="py-2">
+                        <label for="" class="text-secondary py-1 fw-medium" asp-for="PhoneNumber">Phone Number</label>
+                        <input type="phone" placeholder="Enter Your PhoneNumber" asp-for="PhoneNumber" class="form-control p-3 ">
+                        <span asp-validation-for="PhoneNumber"></span>
+                    </div>
+                    <div class="py-2">
+                        <label for="" class="text-secondary py-1 fw-medium" asp-for="Password">Password</label>
+                        <input type="password" placeholder="Enter Your Password" asp-for="Password" class="form-control p-3 ">
+                        <span asp-validation-for="Password"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between align-items-center py-2 ">
+                       
+
+                        <div>
+                            <p class="Forgot_Password">
+                                Is Already Account？ <a asp-action="Login">Sign in</a>
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <button class="btn SignBtn my-4 text-white" type="submit"> Sign Up</button>
+                </form>
+            </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

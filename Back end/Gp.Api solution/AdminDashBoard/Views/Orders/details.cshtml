@@ -1,0 +1,103 @@
+﻿@model OrderModels
+@{
+    ViewData["Title"] = "details";
+}
+  <div class="container d-flex justify-content-between  request   py-5 flex-column " style="width: 90%;">
+        
+    <div  class="d-flex justify-content-between align-items-center   py-3">   
+ 
+    
+    </div>
+        <div  class="  ">
+                @if (@Model!= null)
+                {
+                    <div class="row d-flex justify-content-between">
+                        <div class="col-md-5 text-center  ">
+                            <img src="~/assest/images/ellipse 2.png" class="rounded-circle" alt="Cody Fisher">
+                                         <h3 class="fw-bold">@Model.shipName</h3>
+                    <p class="text-muted fw-bold py-2">Shipper</p>
+                            <div>
+                                <i class="fas fa-star checked star"></i>
+                                <i class="fas fa-star checked star "></i>
+                                <i class="fas fa-star checked star"></i>
+                                <i class="fas fa-star checked"></i>
+                                <i class="fas fa-star checked"></i>
+                            </div>
+                            <div>
+                        <div class=" py-5 my-3">
+                    <img src="~/assest/images/ellipse 2.png" class="rounded-circle" alt="Cody Fisher">
+                    <h3 class="fw-bold">@Model.TripName</h3>
+                    <p class="text-muted fw-bold py-2">Traveller</p>
+                  
+                        <i class="fas fa-star checked star"></i>
+                        <i class="fas fa-star checked star "></i>
+                        <i class="fas fa-star checked star"></i>
+                        <i class="fas fa-star checked"></i>
+                        <i class="fas fa-star checked"></i>
+                        </div>
+                    </div>
+                        </div>
+      @*           <div class="col-md-5 text-center my-5 ">
+                    <img src="~/assest/images/ellipse 2.png" class="rounded-circle" alt="Cody Fisher">
+                    <h3 class="fw-bold">@Model.TripName</h3>
+                    <p class="text-muted fw-bold py-2">Traveller</p>
+                    <div>
+                        <i class="fas fa-star checked star"></i>
+                        <i class="fas fa-star checked star "></i>
+                        <i class="fas fa-star checked star"></i>
+                        <i class="fas fa-star checked"></i>
+                        <i class="fas fa-star checked"></i>
+                    </div>
+
+                </div> *@
+                        <div class="separator2"></div>
+
+                        <div class="col-md-6 ">
+                            <div class="profile-container">
+
+                               
+                                    <div class="profile-item">
+
+                                        <div class="label fw-bold">Order Id:</div>
+                            <div class="value px-5 fw-bold">#@Model.Id</div>
+
+                                    </div>
+                                    <div class="profile-item">
+                                        <div class="label fw-bold">Product  :</div>
+                            <div class="value fw-bold"> @Model.product</div>
+                                    </div>
+                                
+                                <div class="profile-item">
+                                    <div class="label fw-bold">Reward :</div>
+                            <div class="value fw-bold"> $@Model.reward </div>
+                                </div>
+                                <div class="profile-item">
+                                    <div class="label fw-bold">Total Weight :</div>
+                            <div class="value fw-bold">@Model.weight Kg</div>
+                                </div>
+                                <div class="profile-item">
+                                    <div class="label fw-bold">Status :</div>
+                                    <div class="value fw-bold">@Model.Status</div>
+                                </div>
+                                <div class="profile-item">
+                                    <div class="label fw-bold">Product price :</div>
+                                    <div class="value fw-bold"> $@Model.Amount </div>
+                                </div>
+                                <div class="profile-item">
+                                    <div class="label fw-bold">To :</div>
+                            <div class="value fw-bold">@Model.tocity</div>
+                                </div>
+
+
+                        <a type="submit" asp-controller="Orders" asp-action="index" class="verified-button w-100">Back</a>
+                            </div>
+
+                        </div>
+
+                    </div>
+                  
+                }
+            </div>
+        </div>
+
+

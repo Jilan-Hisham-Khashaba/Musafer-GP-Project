@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "DecodeTokenForm";
+}
+
+<div class="container d-flex justify-content-between  request   py-5 flex-column " style="width: 90%;">
+
+    <div class="d-flex justify-content-between align-items-center   py-3">
+        <h5 class="mx-4 fw-bold ">ALL Requests</h5>
+
+    </div>
+    <div class="d-flex  justify-content-evenly align-items-center  ">
+
+<h2>Decode Token</h2>
+
+<form asp-action="DecodeToken" method="post">
+    <div class="form-group">
+        <label for="token">Token</label>
+        <input type="text" class="form-control" id="token" name="token" />
+    </div>
+            <button type="submit" class="btn btn-primary" asp-action="DecodeToken">Decode</button>
+</form>
+</div>
+</div>
+
+

@@ -1,0 +1,83 @@
+﻿@model UserView
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .circle-img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover; /* Ensures the image covers the entire circle */
+    }
+</style>
+
+<div class="container d-flex justify-content-between  request   py-5 flex-column " style="width: 90%;">
+
+    <div class="d-flex justify-content-between align-items-center   py-3">
+    </div>
+    <div class="  ">
+
+
+        @if (Model!= null)
+        {
+            <div class="row d-flex justify-content-between">
+                <div class="col-md-5 text-center  ">
+                    <img src="@Model.image" class="circle-img" alt="@Model.firstName">
+                    <h3 class="fw-bold">@Model.DisplayName</h3>
+
+                    <a type="submit" asp-action="Edit" asp-route-id="@Model.Id" class="verified-button  w-25">Edit</a>
+                    <div>
+                      
+                    </div>
+              
+                </div>
+                <div class="separator2"></div>
+
+                <div class="col-md-6 ">
+                    <div class="profile-container">
+
+                  
+                            <div class="profile-item">
+
+                                <div class="label fw-bold">FirstName :</div>
+                                <div class="value px-5 fw-bold">@Model.firstName</div>
+
+                            </div>
+                            <div class="profile-item">
+                                <div class="label fw-bold">LastName :</div>
+                                <div class="value fw-bold">@Model.lastName</div>
+                            </div>
+                        
+                        <div class="profile-item">
+                            <div class="label fw-bold">Email Address :</div>
+                            <div class="value fw-bold">@Model.Email</div>
+                        </div>
+                        <div class="profile-item">
+                            <div class="label fw-bold">Phone Number :</div>
+                            <div class="value fw-bold">@Model.PhoneNumber</div>
+                        </div>
+                        <div class="profile-item">
+                            <div class="label fw-bold">Country :</div>
+                            <div class="value fw-bold">@Model.AddressCountry</div>
+                        </div>
+                        <div class="profile-item">
+                            <div class="label fw-bold">City :</div>
+                            <div class="value fw-bold">@Model.City</div>
+                        </div>
+                        
+
+
+                    </div>
+
+                </div>
+
+            </div>
+           
+            
+            }
+        
+        
+
+       
+</div>
+

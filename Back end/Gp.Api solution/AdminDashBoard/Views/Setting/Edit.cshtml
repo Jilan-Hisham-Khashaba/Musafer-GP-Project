@@ -1,0 +1,95 @@
+﻿@model AdminDashBoard.Models.UserView
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<form asp-action="Edit" enctype="multipart/form-data" method="post">
+    <div class="row d-flex justify-content-between">
+        <div class="col-md-5 mx-4 my-5 profile">
+            <h3 class="fw-bold">Edit Profile</h3>
+            <div class="position-relative">
+                <img id="profileImage" src="@Model.image" class="rounded-circle" alt="@Model.DisplayName" style="width: 150px; height: 150px;">
+                <label for="profilePicture" class="position-absolute top-50 start-50 translate-middle" style="cursor: pointer;">
+                    <i class="fas fa-camera fa-2x text-dark" onclick="document.getElementById('profilePicture').click();"></i>
+                </label>
+                <input type="file" id="profilePicture" name="file" accept="image/*" class="form-control" style="display: none;" onchange="loadFile(event)">
+            </div>
+            <h3 class="fw-bold">@Model.DisplayName</h3>
+            <div class="mt-3 d-flex align-items-center justify-content-between">
+                <p class="fw-bold">Complete your profile</p>
+             
+            </div>
+        </div>
+        <div class="separator3"></div>
+        <div class="col-md-6">
+            <div class="profile-container">
+                <div class="registration-date">First Registration : @(Model.LastLogin.HasValue ? Model.LastLogin.Value.ToString("yyyy-MM-dd") : "")</div>
+            @Html.HiddenFor(m => m.Id)
+             
+                <div class="profile-item">
+
+                    <div class="label fw-bold"> <label asp-for="firstName" class="control-label"></label> </div>
+                    <div class="value px-5">
+                        <input asp-for="firstName" class="form-control" /> </div>
+                <span asp-validation-for="firstName" class="text-danger"></span>
+            </div>
+                <div class="profile-item">
+                    <div class="label fw-bold">
+                        <label asp-for="lastName" class="control-label"></label> </div>
+                    <div class="value px-5">
+                <input asp-for="lastName" class="form-control" />
+                </div>
+                <span asp-validation-for="lastName" class="text-danger"></span>
+            </div>
+                <div class="profile-item">
+                    <div class="label fw-bold">
+                <label asp-for="NationalId" class="control-label"></label></div>
+                    <div class="value px-5">
+                <input asp-for="NationalId" class="form-control" />
+                </div>
+                <span asp-validation-for="NationalId" class="text-danger"></span>
+            </div>
+                <div class="profile-item">
+                    <div class="label fw-bold">
+                <label asp-for="Email" class="control-label"></label> </div>
+                    <div class="value px-5">
+                <input asp-for="Email" class="form-control" /> </div>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+                <div class="profile-item">
+                    <div class="label fw-bold">
+                <label asp-for="PhoneNumber" class="control-label"></label></div>
+                    <div class="value px-5">
+                <input asp-for="PhoneNumber" class="form-control" />
+                </div>
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+                <div class="profile-item">
+                    <div class="label fw-bold">
+                <label asp-for="AddressCountry" class="control-label"></label>
+                </div>
+                    <div class="value px-5">
+                <input asp-for="AddressCountry" class="form-control" />
+                </div>
+                <span asp-validation-for="AddressCountry" class="text-danger"></span>
+            </div>
+                <div class="profile-item">
+                    <div class="label fw-bold">
+                <label asp-for="City" class="control-label"></label> </div>
+                    <div class="value px-5">
+                <input asp-for="City" class="form-control" />
+                </div>
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+                <button type="submit" class="verified-button w-25">Save</button>
+        </div>
+    </div>
+    </div>
+</form>
+
+<script>
+    function loadFile(event) {
+        var image = document.getElementById('profileImage');
+        image.src = URL.createObjectURL(event.target.files[0]);
+    }
+</script>

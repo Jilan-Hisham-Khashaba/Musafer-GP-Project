@@ -1,0 +1,128 @@
+﻿@model IEnumerable<TransactionViewModel>
+@{
+    ViewData["Title"] = "Transaction";
+}
+@{
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<div class="container d-flex justify-content-center   m-auto flex-column   " style="width: 80%; padding:80px">
+@if (Model != null && Model.Any())
+{
+    
+    <div  class="d-flex my-5">
+            <img src="~/assest/images/ellipse 2.png" />
+       <div class="d-flex flex-column px-2 ">
+        <p style="color: #6C757D;">Name</p>
+        <p>Transaction :<span class="main_color"> #222458</span>
+        </p>
+        <a href="">View Profile</a>
+    
+       </div>
+    </div>
+        <p class="fw-bold px-2 py-3 fs-3">Shipper</p>
+
+        <div class="d-flex  justify-content-evenly align-items-center">
+            <table class="table table-striped w-100 tableShadow table2 ">
+        <!-- Table Header -->
+        <thead>
+            <!-- Table Header Rows -->
+            <tr>
+                <th class="px-3">userName</th>
+                 <th class="px-3">fromCity</th>
+                  <th class="px-3">ToCity</th>
+                        <th class ="px-5">ProductName</th>
+                        <th class ="px-5">ProductPrice</th>
+                        <th class ="px-5">TotalWeight</th>
+                        <th class ="px-5">date</th>
+            </tr>
+        </thead>
+        <!-- Table Body -->
+        <tbody>
+            <!-- Loop through each transaction -->
+            @foreach (var transaction in Model)
+            {
+                <!-- Loop through each shipment in the transaction -->
+                @foreach (var shipment in transaction.Shipments)
+                {
+                    <!-- Table Row for each shipment -->
+                    <tr>
+                        <td>@shipment.userName</td>
+                        <td>@shipment.fromCity</td>
+                        <td>@shipment.ToCity</td>
+                        <!-- Loop through each product in the shipment -->
+                        @foreach (var product in shipment.Products)
+                        {
+                            <td>@product.ProductName</td>
+                            <td>@product.ProductPrice</td>
+                        }
+                        <td>@shipment.weight</td>
+                        <td>@shipment.date</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+        </div>
+    
+}
+
+else
+{
+    <p>No shipment</p>
+}
+<br />
+    <br />
+@if (Model != null && Model.Any())
+{
+       <p class="fw-bold px-2 py-5 fs-3" >Traveler</p>
+        <div class="d-flex  justify-content-evenly align-items-center">
+            <table class="table table-striped w-100 tableShadow table2 ">
+        <!-- Table Header -->
+        <thead>
+            <!-- Table Header Rows -->
+            <tr>
+                        <th class="px-3">userName</th>
+                        <th class="px-3">fromCity</th>
+                        <th class ="px-3">ToCity</th>
+                        <th class="px-3">reward</th>
+                        <th class="px-3">AvailableKg</th>
+            </tr>
+        </thead>
+        <!-- Table Body -->
+        <tbody class=" ">
+           
+            <!-- Loop through each transaction -->
+            @foreach (var transaction in Model)
+            {
+                <!-- Loop through each trip in the transaction -->
+                @foreach (var trip in transaction.Trips)
+                {
+                    <!-- Table Row for each trip -->
+                    <tr>
+                        <td>@trip.userName</td>
+                        <td>@trip.fromCity</td>
+                        <td>@trip.ToCity</td>
+                        <td>@trip.Reward</td>
+                        <td>@trip.weightTrip</td>
+                    </tr>
+                }
+
+            }
+      
+        </tbody>
+    </table>
+    </div>
+
+}
+    else
+    {
+        <h1>no trip</h1>
+    }
+</div>
+
+
+
+
+
+
+

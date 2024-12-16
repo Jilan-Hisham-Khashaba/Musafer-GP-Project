@@ -1,0 +1,64 @@
+﻿ @model CategoryModel
+@{
+    ViewData["Title"] = "AddCat";
+}
+
+<div class="container d-flex justify-content-between  request   py-1 flex-column " style="width: 60%;">
+    <div class="d-flex justify-content-center align-items-center   py-1">
+        <h1 class="py-5">AddCategory</h1>
+    </div>
+                
+                <form method="post" asp-action="AddCat">
+                    <div class="py-3">
+                        <label for="Name" class="text-secondary py-2 fw-medium" asp-for="Name">Category</label>
+                        <input type="text" id="Name" placeholder="Enter Your Name" asp-for="Name" class="form-control w-100 p-2">
+
+                        <span asp-validation-for="Name"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between align-items-center py-2 ">
+                    </div>
+
+                    <button class="btn SignBtn my-4 btn-outline-daralert-dark w-25 rounded-5" type="submit">Add</button>
+                </form>
+              
+            </div>
+
+        </div>
+ 
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+
+<script>
+    // اظهار ال alert لمدة زمنية معينة ثم اخفائه
+    window.onload = function () {
+        var successAlert = document.getElementById("successAlert");
+        var errorAlert = document.getElementById("errorAlert");
+
+        if (successAlert) {
+            setTimeout(function () {
+                successAlert.style.display = "none";
+            }, 5000); // تظهر لمدة 5 ثواني ثم تختفي
+        }
+
+        if (errorAlert) {
+            setTimeout(function () {
+                errorAlert.style.display = "none";
+            }, 5000); // تظهر لمدة 5 ثواني ثم تختفي
+        }
+    };
+</script>
+
+ 

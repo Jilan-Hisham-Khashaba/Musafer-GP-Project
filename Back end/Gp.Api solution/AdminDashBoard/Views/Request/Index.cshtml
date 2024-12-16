@@ -1,0 +1,117 @@
+﻿@model IEnumerable<RequestModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container d-flex justify-content-between request flex-column" style="width: 90%;">
+    <he4 class="mx-4 fw-bold py-3 my-2">ALL Requests</he4>
+    <div class="d-flex justify-content-between align-items-center">
+        <div class="py-5 d-flex justify-content-center align-items-center">
+            <div class="d-flex justify-content-center align-items-center">
+                <input type="text" id="searchInput" placeholder="Search by destination..." class="form-control w-100 bg-transparent py-2 px-5 mx-1 rounded-pill">
+                <button class="btn btn-primary rounded-5 mx-3 w-50" onclick="filterRequests()"><i class="fa-solid fa-arrow-up-wide-short"></i> Filter</button>
+            </div>
+        </div>
+    </div>
+    <div class="d-flex justify-content-evenly align-items-center py-3">
+        <table class="table w-100">
+            <thead class="tableee">
+                <tr>
+                    <th>Id</th>
+                    <th>Date of Creation</th>
+                    <th>SenderId</th>
+                    <th>Type</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="requestsTable">
+                @foreach (var requestData in Model)
+                {
+                    <tr>
+                        <td>#@requestData.Id</td>
+                        <td>@(requestData.dateOfCreation.HasValue ? requestData.dateOfCreation.Value.ToString("yyyy-MM-dd") : "")</td>
+                        <td>@requestData.senderId</td>
+                        <td>@requestData.type</td>
+                        <td>
+                            <a class="" asp-action="details" asp-route-id="@requestData.Id"><i class="fa-solid fa-eye p-2 mx-1 fs-5"></i></a>
+                            <a class=" " onclick="confirmDelete(@requestData.Id)"><i class="fa-solid fa-trash fs-5 p-2  text-danger"></i></a>
+                           
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="modal fade" id="deleteConfirmationModal" tabindex="-1" role="dialog" aria-labelledby="deleteConfirmationModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="deleteConfirmationModalLabel">Confirmation</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeModal()">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to delete this Request?
+            </div>
+            <div class="modal-footer">
+
+                <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="closeModal()">Cancel</button>
+                <button type="button" class="btn btn-danger" onclick="deleteRequest()">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="deleteSuccessMessage" class="alert alert-success" role="alert" style="display: none;">
+    Request deleted successfully!
+</div>
+
+<script>
+    var requestIdToDelete; // يتم تخزين معرف الطلب المراد حذفه هنا
+
+    function confirmDelete(id) {
+        requestIdToDelete = id; // حفظ معرف الطلب المراد حذفه
+        $('#deleteConfirmationModal').modal('show'); // عرض نافذة التأكيد
+    }
+
+    function closeModal() {
+        $('#deleteConfirmationModal').modal('hide'); // إخفاء نافذة التأكيد
+    }
+
+    function deleteRequest() {
+        $.ajax({
+            url: '/Request/DeleteConfirmed/' + requestIdToDelete, // تغيير المسار إلى الرابط الصحيح لحذف الطلب
+            type: 'POST',
+            success: function (response) {
+                $('#deleteConfirmationModal').modal('hide'); // إخفاء نافذة التأكيد بعد نجاح الحذف
+                $('#deleteSuccessMessage').fadeIn(); // عرض رسالة النجاح
+                setTimeout(function () {
+                    $('#deleteSuccessMessage').fadeOut(); // إخفاء رسالة النجاح بعد 10 ثوانٍ
+                }, 10000); // 10 ثوانٍ
+                window.location.reload(); // إعادة تحميل الصفحة لعرض التغييرات
+            },
+            error: function (xhr, status, error) {
+                alert('An error occurred while deleting the Request.'); // عرض رسالة خطأ في حالة حدوث خطأ أثناء الحذف
+            }
+        });
+    }
+
+    function filterRequests() {
+        var searchType = document.getElementById('searchInput').value;
+        $.ajax({
+            url: '/Request/Index',
+            type: 'GET',
+            data: { searchType: searchType },
+            success: function (response) {
+                var tableBody = document.getElementById('requestsTable');
+                tableBody.innerHTML = $(response).find('#requestsTable').html();
+            },
+            error: function (xhr, status, error) {
+                alert('An error occurred while filtering the Requests.');
+            }
+        });
+    }
+</script>
+

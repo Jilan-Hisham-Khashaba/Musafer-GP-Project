@@ -1,0 +1,114 @@
+﻿@model DeatielsRequest
+@{
+    ViewData["Title"] = "details";
+}
+  <div class="container d-flex justify-content-between  request   py-5 flex-column " style="width: 90%;">
+        
+    <div  class="d-flex justify-content-between align-items-center   py-3">   
+ 
+    
+    </div>
+        <div  class="  ">
+
+        @if (Model.Shipments != null || Model.Trips !=null)
+        {
+            <div class="row d-flex justify-content-between">
+                <div class="col-md-5 text-center  ">
+                    <img src="~/assest/images/ellipse 2.png" class="rounded-circle" alt="Cody Fisher">
+                    <h3 class="fw-bold">@Model.Shipments.userName</h3>
+                    <p class="text-muted fw-bold py-2">Request ID:@Model.Shipments.RequestId</p>
+                    <div>
+                        <i class="fas fa-star checked star"></i>
+                        <i class="fas fa-star checked star "></i>
+                        <i class="fas fa-star checked star"></i>
+                        <i class="fas fa-star checked"></i>
+                        <i class="fas fa-star checked"></i>
+                    </div>
+                    @*   <div class="mt-3  d-flex align-items-center  justify-content-center"  >
+              <div class="item">
+                  <div class="number">21</div>
+                  <div class="label">Shipper</div>
+              </div>
+              <div class="separator"></div>
+              <div class="item">
+                  <div class="number">238</div>
+                  <div class="label">Traveler</div>
+              </div>
+          </div> *@
+                </div>
+                <div class="separator2"></div>
+
+                <div class="col-md-6 ">
+                    <div class="profile-container">
+
+                        @foreach (var product in Model.Shipments.Products)
+                        {
+                            <div class="profile-item">
+
+                                <div class="label fw-bold">Product :</div>
+                                <div class="value px-5 fw-bold">@product.ProductName</div>
+
+                            </div>
+                            <div class="profile-item">
+                                <div class="label fw-bold">Product Price :</div>
+                                <div class="value fw-bold"> $@product.ProductPrice</div>
+                            </div>
+                        }
+                        <div class="profile-item">
+                            <div class="label fw-bold">Reward :</div>
+                            <div class="value fw-bold"> $ @Model.Shipments.Reward</div> 
+                        </div>
+                        <div class="profile-item">
+                            <div class="label fw-bold">Total Weight :</div>
+                            <div class="value fw-bold">@Model.Shipments.weight Kg</div>
+                        </div>
+                        <div class="profile-item">
+                            <div class="label fw-bold">Quantity :</div>
+                            <div class="value fw-bold">1</div>
+                        </div>
+                        <div class="profile-item">
+                            <div class="label fw-bold">From :</div>
+                            <div class="value fw-bold">@Model.Shipments.fromCity</div>
+                        </div>
+                        <div class="profile-item">
+                            <div class="label fw-bold">To :</div>
+                            <div class="value fw-bold">@Model.Shipments.ToCity</div>
+                        </div>
+
+
+                        <a type="submit" asp-controller="Request" asp-action="index" class="verified-button w-100">Back</a>
+                    </div>
+
+                </div>
+
+            </div>
+            @* @if (Model.Shipments != null)
+{
+    <h2>Shipment Details</h2>
+    <p>From City: @Model.Shipments.fromCity</p>
+    <p>To City: @Model.Shipments.ToCity</p>
+
+    <p>Weight: @Model.Shipments.weight</p>
+    <p>Quentity: @Model.Shipments.count</p>
+    @foreach (var product in Model.Shipments.Products)
+    {
+        <p><span>productName :</span>
+            @product.ProductName</p>
+        <p>
+            <span>productPrice:</span>
+            @product.ProductPrice,</p>
+    }
+}
+
+@if (Model.Trips != null)
+{
+    <h2>Trip Details</h2>
+    <p>From City: @Model.Trips.fromCity</p>
+    <p>To City: @Model.Trips.ToCity</p>
+    <p>Weight Trip: @Model.Trips.weightTrip</p>
+    <p>Reward: @Model.Trips.Reward</p>
+}
+ *@
+        }
+    </div>
+    </div>

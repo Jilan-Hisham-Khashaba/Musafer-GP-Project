@@ -1,0 +1,124 @@
+﻿@model IEnumerable<CitiesModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (Model != null)
+{
+    <div class="container d-flex justify-content-between request py-4 flex-column" style="width: 90%;">
+        <h5 class="mx-4 fw-bold py-1 my-1">All Locations</h5>
+        <div class="d-flex justify-content-center align-items-center">
+            <div class="py-3 d-flex me-auto justify-content-center align-items-center">
+                <input type="text" id="searchInput" placeholder="Search by city..." class="form-control w-100 bg-transparent py-2 px-5 mx-1 rounded-pill">
+                <button class="btn btn-primary rounded-5 mx-3" onclick="searchCities()">Search</button>
+            </div>
+            <a class="btn btn-outline-primary text-end ms-auto rounded-5" asp-action="AddCity" type="submit">Add Location</a>
+        </div>
+
+        <div class="d-flex justify-content-between align-items-center py-3"></div>
+        <div class="d-flex justify-content-evenly align-items-center">
+            <table class="table w-100">
+                <thead class="tableee">
+                    <tr>
+                        <th>Country</th>
+                        <th>City</th>
+                        <th>ID</th>
+                        <th>Continent</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="citiesTableBody">
+                    @foreach (var cityData in Model)
+                    {
+                        <tr>
+                            <td>@cityData.countryName</td>
+                            <td>@cityData.cityName</td>
+                            <td>@cityData.Id</td>
+                            <td>@(cityData.contient != null ? cityData.contient : "Unknown")</td>
+                            <td>
+                                <a class="" asp-action="Edit" asp-route-id="@cityData.Id"> <i class="fa-regular fa-pen-to-square p-1 mx-1"></i></a>
+                                <a class="" onclick="confirmDelete(@cityData.Id)"><i class="fa-solid fa-trash  p-1  text-danger"></i></a>
+                              
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+else
+{
+    <p>No categories found.</p>
+}
+
+<div class="modal fade" id="deleteConfirmationModal" tabindex="-1" role="dialog" aria-labelledby="deleteConfirmationModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="deleteConfirmationModalLabel">Confirmation</h5>
+                <button type="button" class="close" data-dismiss="modal" onclick="closeModal()" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to delete this Location?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="closeModal()">Cancel</button>
+                <button type="button" class="btn btn-danger" onclick="deleteLocation()">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="deleteSuccessMessage" class="alert alert-success" role="alert" style="display: none;">
+    Location deleted successfully!
+</div>
+
+<script>
+    var LocationIdToDelete; // يتم تخزين معرف الموقع المراد حذفه هنا
+
+    function confirmDelete(id) {
+        LocationIdToDelete = id; // حفظ معرف الموقع المراد حذفه
+        $('#deleteConfirmationModal').modal('show'); // عرض النافذة المنبثقة
+    }
+
+    function closeModal() {
+        $('#deleteConfirmationModal').modal('hide'); // إخفاء نافذة التأكيد
+    }
+
+    function deleteLocation() {
+        $.ajax({
+            url: '/Location/DeleteConfirmed/' + LocationIdToDelete, // تغيير المسار إلى الرابط الصحيح لحذف الموقع
+            type: 'POST',
+            success: function (response) {
+                $('#deleteConfirmationModal').modal('hide'); // إخفاء النافذة المنبثقة بعد حذف الموقع بنجاح
+                $('#deleteSuccessMessage').fadeIn(); // عرض رسالة النجاح
+                setTimeout(function () {
+                    $('#deleteSuccessMessage').fadeOut(); // إخفاء رسالة النجاح بعد 10 ثوانٍ
+                }, 10000); // 10 ثوانٍ
+                window.location.reload(); // إعادة تحميل الصفحة لعرض التغييرات
+            },
+            error: function (xhr, status, error) {
+                alert('An error occurred while deleting the Location.'); // عرض رسالة خطأ في حالة حدوث خطأ أثناء الحذف
+            }
+        });
+    }
+
+    function searchCities() {
+        var searchValue = document.getElementById('searchInput').value;
+        $.ajax({
+            url: '@Url.Action("Index")',
+            type: 'GET',
+            data: { searchValue: searchValue },
+            success: function (response) {
+                var tableBody = document.getElementById('citiesTableBody');
+                tableBody.innerHTML = $(response).find('#citiesTableBody').html();
+            },
+            error: function (xhr, status, error) {
+                alert('An error occurred while searching for cities.');
+            }
+        });
+    }
+</script>
+

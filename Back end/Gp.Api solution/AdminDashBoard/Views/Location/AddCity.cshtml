@@ -1,0 +1,80 @@
+﻿@model CitiesModel
+@{
+    ViewData["Title"] = "AddCity";
+}
+  <div class="container d-flex justify-content-between  request   py-5 flex-column " style="width: 60%;">
+    <div  class="d-flex justify-content-center align-items-center   py-3">
+
+        <h1 class="fs-15 text-center">Add</h1>
+    </div>
+<form method="post" asp-action="AddCity">
+    <div class="py-3">
+        <label for="cityName" class="text-secondary py-2 fw-medium" asp-for="cityName">city</label>
+        <input  type="text" id="cityName" placeholder="Enter Your city" asp-for="cityName" class="form-control p-3 w-100">
+
+        <span asp-validation-for="cityName"></span>
+    </div>
+    <div class="py-3">
+        <label for="countryName" class="text-secondary py-2 fw-medium" asp-for="countryName">countryName</label>
+        <input type="text" id="countryName" placeholder="Enter Your country" asp-for="countryName" class="form-control p-3 w-100">
+
+        <span asp-validation-for="countryName"></span>
+    </div>
+    <div class="py-3">
+        <label for="contient" class="text-secondary py-2 fw-medium" asp-for="contient">contient</label>
+        <input type="text" id="contient" placeholder="Enter Your contient" asp-for="contient" class="form-control p-3 w-100">
+
+        <span asp-validation-for="contient"></span>
+    </div>
+    <div class="d-flex justify-content-between align-items-center py-2 ">
+    </div>
+    <button class="btn SignBtn my-4 btn-outline-dark w-25 rounded-5" type="submit" onclick="printCity()">Add</button>
+</form>
+
+
+                @if (TempData["SuccessMessage"] != null)
+                {
+                    <div class="alert alert-success">
+                        @TempData["SuccessMessage"]
+                    </div>
+                }
+
+                @if (TempData["ErrorMessage"] != null)
+                {
+                    <div class="alert alert-danger">
+                        @TempData["ErrorMessage"]
+                    </div>
+                }
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>
+
+<script>
+    // اظهار ال alert لمدة زمنية معينة ثم اخفائه
+    window.onload = function () {
+        var successAlert = document.getElementById("successAlert");
+        var errorAlert = document.getElementById("errorAlert");
+
+        if (successAlert) {
+            setTimeout(function () {
+                successAlert.style.display = "none";
+            }, 5000); // تظهر لمدة 5 ثواني ثم تختفي
+        }
+
+        if (errorAlert) {
+            setTimeout(function () {
+                errorAlert.style.display = "none";
+            }, 5000); // تظهر لمدة 5 ثواني ثم تختفي
+        }
+    };
+    function printCity() {
+        var cityInput = document.getElementById('cityName').value;
+        console.log("Entered city: " + cityInput);
+    }
+</script>
+
+
+
