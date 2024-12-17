@@ -1,0 +1,82 @@
+/* __________________________Authentication - admin - css____________________________________ */
+
+.Forgot_Password , .form-check-input ,.login a{
+    color: #007DFA;
+    cursor: pointer;
+}
+.background{
+    background: rgb(5,10,36);
+background: linear-gradient(0deg, rgba(5,10,36,1) 0%, rgba(25,38,106,1) 42%, rgba(28,58,181,1) 100%);
+}
+.SignBtn{
+    background-color:#007DFA ;
+}
+.form-control:focus {
+
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 0.25rem #E0EFFE;
+}
+.btn:hover {
+    background-color:#007DFA ;
+}
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+    background-color:#007DFA ;
+    border-color: #007DFA;
+}
+
+label {
+    /* display: inline-block; */
+}
+.login{
+    padding:0px 100px ;
+}
+*, ::after, ::before {
+    /* box-sizing: border-box; */
+}
+
+@media only screen and (max-width: 910px){
+    .login{
+        padding:0px 40px ;
+    }
+}
+@media only screen and (max-width: 500px){
+    .login{
+        padding:0px 0px ;
+    }
+
+}
+/* __________________________side nav bar Css___________________ */
+.side-nav-menu{
+    background-color: #050A24;
+}
+.side-nav-menu h1{
+    background: rgb(0,105,213);
+    background: linear-gradient(0deg, rgba(0,105,213,1) 0%, rgba(55,78,116,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.links ul li ,.nav-footer a{
+    cursor: pointer;
+    text-decoration: none;
+    color: #BEBEBF;
+}
+/* ___________________________home Css__________________________ */
+.adminDetails button{
+    background-color: #007DFA;
+}
+
+.line{
+    width: 100%;
+    height: 1px;
+    background: rgba(190, 190, 191, 0.50);
+
+}
+.SmallLine{
+    width: 0px;
+height: 38.5px;
+flex-shrink: 0;
+stroke-width: 1px;
+stroke: #979797;
+opacity: 0.2456;
+}
