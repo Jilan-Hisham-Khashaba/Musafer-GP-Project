@@ -1,0 +1,694 @@
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.exe
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.deps.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.runtimeconfig.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.pdb
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.AssemblyReference.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfoInputs.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfo.cs
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CoreCompileInputs.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.Gp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Gp.Api.props
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gp.Api.props
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gp.Api.props
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\scopedcss\bundle\Gp.Api.styles.css
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CopyComplete
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\refint\Gp.Api.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.pdb
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.genruntimeconfig.cache
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\ref\Gp.Api.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.pdb
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Lasttt Yearrr\GP\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.exe
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.deps.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.runtimeconfig.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.pdb
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.pdb
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.pdb
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.AssemblyReference.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfoInputs.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfo.cs
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CoreCompileInputs.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.Gp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Gp.Api.props
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gp.Api.props
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gp.Api.props
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\scopedcss\bundle\Gp.Api.styles.css
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CopyComplete
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\refint\Gp.Api.dll
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.pdb
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.genruntimeconfig.cache
+C:\Users\rahma\Desktop\Project\Gp.Api solution\Gp.Api\obj\Debug\net6.0\ref\Gp.Api.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.exe
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.deps.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.runtimeconfig.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.pdb
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.pdb
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.AssemblyReference.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfoInputs.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfo.cs
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CoreCompileInputs.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.Gp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Gp.Api.props
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gp.Api.props
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gp.Api.props
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\scopedcss\bundle\Gp.Api.styles.css
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CopyComplete
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\refint\Gp.Api.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.pdb
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.genruntimeconfig.cache
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\ref\Gp.Api.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.sourcelink.json
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\appsettings.json
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Gp.Api.exe
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Gp.Api.deps.json
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Gp.Api.runtimeconfig.json
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Gp.Api.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Gp.Api.pdb
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\GP.Core.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\GP.Repository.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\GP.Repository.pdb
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\bin\Debug\net6.0\GP.Core.pdb
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.AssemblyReference.cache
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfoInputs.cache
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfo.cs
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CoreCompileInputs.cache
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.Gp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Gp.Api.props
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gp.Api.props
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gp.Api.props
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\scopedcss\bundle\Gp.Api.styles.css
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CopyComplete
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\refint\Gp.Api.dll
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.pdb
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\Gp.Api.genruntimeconfig.cache
+D:\Graduation Project\Final Project\GP-Project\Gp.Api\obj\Debug\net6.0\ref\Gp.Api.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.staticwebassets.runtime.json
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.dll
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.pdb
+D:\Lasttt Yearrr\GP\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.staticwebassets.runtime.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.exe
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.deps.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.runtimeconfig.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.pdb
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.pdb
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.pdb
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.pdb
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfo.cs
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.sourcelink.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.Gp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Gp.Api.props
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gp.Api.props
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gp.Api.props
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\scopedcss\bundle\Gp.Api.styles.css
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.Up2Date
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\refint\Gp.Api.dll
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.pdb
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.genruntimeconfig.cache
+C:\Users\Dell\Downloads\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\ref\Gp.Api.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.staticwebassets.runtime.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.exe
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.deps.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.runtimeconfig.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.pdb
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.pdb
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.pdb
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.pdb
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.sourcelink.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.Gp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Gp.Api.props
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gp.Api.props
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gp.Api.props
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\scopedcss\bundle\Gp.Api.styles.css
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.Up2Date
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\refint\Gp.Api.dll
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.pdb
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.genruntimeconfig.cache
+C:\Users\Dell\Desktop\GP Web\ProjectGP2\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\ref\Gp.Api.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.staticwebassets.runtime.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.exe
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.deps.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.runtimeconfig.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.pdb
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.pdb
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.pdb
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.pdb
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.AssemblyReference.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfoInputs.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfo.cs
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CoreCompileInputs.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.sourcelink.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.Gp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Gp.Api.props
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gp.Api.props
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gp.Api.props
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\scopedcss\bundle\Gp.Api.styles.css
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CopyComplete
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\refint\Gp.Api.dll
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.pdb
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.genruntimeconfig.cache
+C:\Users\rahma\Downloads\ProjectGP2.25\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\ref\Gp.Api.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\appsettings.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.staticwebassets.runtime.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.exe
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.deps.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.runtimeconfig.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Gp.Api.pdb
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Emgu.CV.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\OpenCvSharp.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Twilio.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Twilio.AspNet.Common.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Twilio.AspNet.Core.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Repository.pdb
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Services.pdb
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\GP.Core.pdb
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.AssemblyReference.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfoInputs.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.AssemblyInfo.cs
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.CoreCompileInputs.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.sourcelink.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.Gp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Gp.Api.props
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gp.Api.props
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gp.Api.props
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\scopedcss\bundle\Gp.Api.styles.css
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\refint\Gp.Api.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.pdb
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.genruntimeconfig.cache
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\ref\Gp.Api.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Lasttt Yearrr\GP\finalGPProject\ProjectGP2\Gp.Api solution\Gp.Api\obj\Debug\net6.0\Gp.Api.csproj.Up2Date
